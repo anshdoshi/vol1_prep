@@ -1,7 +1,7 @@
 # Senior Full Stack Interview Prep — Volume 1 (v2, expanded)
 ## JavaScript · TypeScript · React · Next.js
 
-**Prepared for:** Ansh Doshi — Senior Full Stack / Senior Software Engineer roles, India (~₹20 LPA)
+**Prepared for:** Ansh Doshi — Senior Full Stack / Senior Software Engineer roles, India
 **Accuracy baseline:** September 2026. Next.js 16.x (16.3 is the current minor), React 19.2.x, TypeScript 5.x.
 
 **What's new in v2:**
